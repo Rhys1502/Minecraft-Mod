@@ -102,7 +102,7 @@
 						"on_dig": {
 							"event": "durabilityloss"
 						},
-						"speed": 0.4
+						"speed": 10
 					},
 					{
 						"block": "polished_granite_stairs",
