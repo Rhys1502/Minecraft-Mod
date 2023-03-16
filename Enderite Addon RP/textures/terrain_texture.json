@@ -12,6 +12,9 @@
 		},
 		"glegg_enderite_smithing_station": {
 			"textures": "textures/blocks/enderite_smithing_station"
+		},
+		"glegg_enderite_furnace": {
+			"textures": "textures/blocks/enderite_furnace"
 		}
 	}
 }

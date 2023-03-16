@@ -16,6 +16,182 @@
 			},
 			"minecraft:creative_category": {
 				"parent": "itemGroup.name.shovel"
+			},
+			"minecraft:enchantable": {
+				"slot": "shovel",
+				"value": 20
+			},
+			"minecraft:damage": 8,
+			"minecraft:digger": {
+				"on_dig": {
+					"event": "durabilityloss2"
+				},
+				"destroy_speeds": [
+					{
+						"block": {
+							"tags": "q.any_tag('dirt','sand', 'gravel', 'grass', 'snow')"
+						},
+						"speed": 15,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:clay",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:farmland",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:grass",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:mud",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:grass_path",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:gravel",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:mycelium",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:podzol",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:dirt",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:sand",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:soul_sand",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:soul_soil",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:concrete_powder",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:snow",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:snow_layer",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					}
+				]
+			},
+			"minecraft:weapon": {
+				"on_hurt_entity": {
+					"event": "durabilityloss2"
+				},
+				"on_not_hurt_entity": {
+					"event": "durabilityloss2"
+				},
+				"on_hit_block": {
+					"event": "durabilityloss"
+				}
+			},
+			"minecraft:on_use_on": {
+				"on_use_on": {
+					"event": "change"
+				}
+			}
+		},
+		"events": {
+			"durabilityloss": {
+				"damage": {
+					"amount": 1,
+					"target": "self",
+					"type": "durability"
+				}
+			},
+			"durabilityloss2": {
+				"damage": {
+					"amount": 2,
+					"target": "self",
+					"type": "durability"
+				}
+			},
+			"change": {
+				"sequence": [
+					{
+						"damage": {
+							"type": "durability",
+							"amount": 1,
+							"target": "item"
+						}
+					},
+					{
+						"run_command": {
+							"command": [
+								"function shovel_block"
+							]
+						}
+					}
+				]
 			}
 		}
 	}

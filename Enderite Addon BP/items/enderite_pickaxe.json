@@ -46,7 +46,329 @@
 						"on_dig": {
 							"event": "durabilityloss"
 						},
-						"speed": 0.35
+						"speed": 20
+					},
+					{
+						"block": "mossy_cobblestone_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "stone_brick_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "mossy_stone_brick_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "sandstone_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "smooth_sandstone_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "red_sandstone_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "smooth_red_sandstone_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "granite_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_granite_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "diorite_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_diorite_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "andesite_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_andesite_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "brick_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "nether_brick_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "red_nether_brick_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "end_brick_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "quartz_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "smooth_quartz_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "purpur_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "waxed_oxidized_cut_copper_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "waxed_weathered_cut_copper_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "waxed_exposed_cut_copper_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "waxed_cut_copper_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "oxidized_cut_copper_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "weathered_cut_copper_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "exposed_cut_copper_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "cut_copper_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_blackstone_brick_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_blackstone_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "blackstone_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "prismarine_bricks_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "dark_prismarine_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "prismarine_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "cobbled_deepslate_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "deepslate_tile_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_deepslate_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "deepslate_brick_stairs",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "iron_trapdoor",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 14
+					},
+					{
+						"block": "blackstone_wall",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_blackstone_wall",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_blackstone_brick_wall",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "cobbled_deepslate_wall",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "deepslate_tile_wall",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "deepslate_brick_wall",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "mud_brick_wall",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
 					}
 				]
 			}
