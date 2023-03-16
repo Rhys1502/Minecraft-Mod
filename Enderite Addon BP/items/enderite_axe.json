@@ -785,7 +785,7 @@
 					{
 						"run_command": {
 							"command": [
-								"function axe_blocks"
+								"function axe_block"
 							]
 						}
 					}
