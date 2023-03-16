@@ -35,16 +35,762 @@
 						"on_dig": {
 							"event": "durabilityloss"
 						}
+					},
+					{
+						"block": "minecraft:chest",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:trapdoor",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:spruce_trapdoor",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:birch_fence_gate",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:jungle_fence_gate",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:acacia_fence_gate",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:dark_oak_fence_gate",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_fence_gate",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_fence_gate",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:jukebox",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:log",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:log2",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_stem",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_stem",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:stripped_spruce_log",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:stripped_birch_log",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:stripped_jungle_log",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:stripped_acacia_log",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:stripped_dark_oak_log",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:stripped_oak_log",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:stripped_crimson_stem",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:stripped_warped_stem",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:planks",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_planks",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_planks",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:wooden_slab",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:double_wooden_slab",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:oak_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:spruce_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:jungle_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:acacia_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:dark_oak_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:campfire",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:soul_campfire",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:bookshelf",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:standing_banner",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:wall_banner",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:lit_pumpkin",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:pumpkin",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:carved_pumpkin",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:standing_sign",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_standing_sign",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_standing_sign",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:wall_sign",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:noteblock",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:wooden_pressure_plate",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:beehive",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:bee_nest",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:ladder",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:composter",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:bamboo",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:bamboo_sapling",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:daylight_detector",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:daylight_detector_inverted",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:brown_mushroom_block",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:red_mushroom_block",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:vine",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:cocoa",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:birch_trapdoor",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:jungle_trapdoor",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:acacia_trapdoor",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:dark_oak_trapdoor",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:spruce_door",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:wooden_door",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_planks",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:birch_door",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:jungle_door",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:acacia_door",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:trapped_chest",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:lectern",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:smithing_table",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:loom",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:cartography_table",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:fletching_table",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:barrel",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:fence",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_fence",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_fence",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:fence_gate",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:spruce_fence_gate",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:dark_oak_door",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:bookshelf",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:melon_block",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_stem",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_stem",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_stem",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_stem",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crafting_table",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_planks",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_planks",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_trapdoor",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_stairs",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_trapdoor",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_door",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crimson_double_slab",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_door",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:warped_double_slab",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
+					},
+					{
+						"block": "minecraft:crafting_table",
+						"speed": 5,
+						"on_dig": {
+							"event": "durabilityloss"
+						}
 					}
-				]
+				],
+				"on_dig": {
+					"event": "durabilityloss2"
+				}
 			},
-			"minecraft:weapon": {
+			"minecraft:weapon": {			
 				"on_hurt_entity": {
-					"event": "durabilityloss"
+					"event": "durabilityloss2"
+				},
+				"on_not_hurt_entity": {
+					"event": "durabilityloss2"
+				},
+				"on_hit_block": {
+					"event": "durabilityloss2"
+				}
+			},
+			"minecraft:on_use_on": {
+				"on_use_on": {
+					"event": "change"
 				}
 			}
 		},
 		"events": {
+			"change": {
+				"sequence": [
+					{
+						"damage": {
+							"type": "durability",
+							"amount": 1,
+							"target": "item"
+						}
+					},
+					{
+						"run_command": {
+							"command": [
+								"function axe_blocks"
+							]
+						}
+					}
+				]
+			},
 			"durabilityloss": {
 				"damage": {
 					"amount": 1,
