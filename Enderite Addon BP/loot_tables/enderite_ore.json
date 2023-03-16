@@ -1,0 +1,164 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"conditions": [
+				{
+					"condition": "match_tool",
+					"item": [
+						"glegg:enderite_pickaxe",
+						"minecraft:diamond_pickaxe",
+						"minecraft:netherite_pickaxe"
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "item",
+					"name": "glegg:enderite_raw_ore"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"conditions": [
+				{
+					"condition": "match_tool",
+					"item": [
+						"glegg:enderite_pickaxe",
+						"minecraft:diamond_pickaxe",
+						"minecraft:netherite_pickaxe"
+					],
+					"enchantments": [
+						{
+							"enchantment": "fortune",
+							"levels": {
+								"range_min": 1,
+								"range_max": 1
+							}
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "item",
+					"name": "glegg:enderite_raw_ore",
+					"weight": 1
+				},
+				{
+					"type": "empty",
+					"weight": 2
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"conditions": [
+				{
+					"condition": "match_tool",
+					"item": [
+						"glegg:enderite_pickaxe",
+						"minecraft:diamond_pickaxe",
+						"minecraft:netherite_pickaxe"
+					],
+					"enchantments": [
+						{
+							"enchantment": "fortune",
+							"levels": {
+								"range_min": 2,
+								"range_max": 2
+							}
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "item",
+					"name": "glegg:enderite_raw_ore",
+					"weight": 1,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 2
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "glegg:enderite_raw_ore",
+					"weight": 4
+				},
+				{
+					"type": "empty",
+					"weight": 3
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"conditions": [
+				{
+					"condition": "match_tool",
+					"item": [
+						"glegg:enderite_pickaxe",
+						"minecraft:diamond_pickaxe",
+						"minecraft:netherite_pickaxe"
+					],
+					"enchantments": [
+						{
+							"enchantment": "fortune",
+							"levels": {
+								"range_min": 3,
+								"range_max": 3
+							}
+						}
+					]
+				}
+			],
+			"entries": [
+				{
+					"type": "item",
+					"name": "glegg:enderite_raw_ore",
+					"weight": 2,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 3,
+								"max": 3
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "glegg:enderite_raw_ore",
+					"weight": 2,
+					"functions": [
+						{
+							"function": "set_count",
+							"count": {
+								"min": 2,
+								"max": 2
+							}
+						}
+					]
+				},
+				{
+					"type": "item",
+					"name": "glegg:enderite_raw_ore",
+					"weight": 4
+				},
+				{
+					"type": "empty",
+					"weight": 2
+				}
+			]
+		}
+	]
+}

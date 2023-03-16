@@ -1,0 +1,45 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "glegg:enderite_block"
+		},
+		"components": {
+			"minecraft:collision_box": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					16,
+					16
+				]
+			},
+			"minecraft:selection_box": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					16,
+					16
+				]
+			},
+			"minecraft:geometry": "geometry.enderite_block",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "glegg_enderite_block",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:destroy_time": 6,
+			"minecraft:creative_category": {
+				"category": "construction"
+			}
+		}
+	}
+}

@@ -1,0 +1,65 @@
+{
+	"format_version": "1.19.50",
+	"minecraft:block": {
+		"description": {
+			"identifier": "glegg:enderite_ore",
+			"menu_category": {
+				"category": "nature"
+			}
+		},
+		"components": {
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 150
+			},
+			"minecraft:destructible_by_explosion": {
+				"explosion_resistance": 1
+			},
+			"minecraft:map_color": "#FFF79F",
+			"minecraft:collision_box": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					16,
+					16
+				]
+			},
+			"minecraft:selection_box": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					16,
+					16
+				]
+			},
+			"minecraft:geometry": "geometry.enderite_ore",
+			"minecraft:loot": "loot_tables/enderite_ore.json",
+			"minecraft:on_player_destroyed": {
+				"event": "xpspawn"
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "glegg_enderite_ore",
+					"render_method": "opaque"
+				}
+			},
+			"tag:diamond_pick_diggable": {}
+		},
+		"events": {
+			"xpspawn": {
+				"run_command": {
+					"command": [
+						"structure load my_xp_structure ~~~"
+					]
+				}
+			}
+		}
+	}
+}

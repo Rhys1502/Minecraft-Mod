@@ -1,0 +1,19 @@
+{
+	"format_version": [
+		1,
+		1,
+		0
+	],
+	"glegg:enderite_ore": {
+		"sound": "stone",
+		"textures": "glegg_enderite_ore"
+	},
+	"glegg:enderite_block": {
+		"sound": "stone",
+		"textures": "glegg_enderite_block"
+	},
+	"glegg:enderite_smithing_station": {
+		"sound": "stone",
+		"textures": "glegg_enderite_smithing_station"
+	}
+}

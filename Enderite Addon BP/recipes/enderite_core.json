@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "glegg:enderite_core"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"DED",
+			"ESE",
+			"DED"
+		],
+		"key": {
+			"E": {
+				"item": "glegg:enderite_ingot"
+			},
+			"D": {
+				"item": "minecraft:diamond"
+			},
+			"S": {
+				"item": "minecraft:netherstar"
+			}
+		},
+		"result": {
+			"item": "glegg:enderite_core"
+		}
+	}
+}

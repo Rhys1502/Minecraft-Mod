@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Squiget"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.0"
+			],
+			"dash": [
+				"0.10.8"
+			]
+		}
+	},
+	"header": {
+		"name": "Enderite Addon",
+		"description": "Made By Squiget",
+		"min_engine_version": [
+			1,
+			19,
+			60
+		],
+		"uuid": "92ef457e-bad1-4b42-999f-a329e658c1e0",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "5a2aca0e-e68d-4ac2-bc13-14a7614e5762",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "c15b9939-5ff3-4e47-974b-3421a7672aec",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

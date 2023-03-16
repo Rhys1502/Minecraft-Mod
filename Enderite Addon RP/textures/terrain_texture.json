@@ -1,0 +1,20 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Enderite Addon",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"glegg_enderite_ore": {
+			"textures": "textures/blocks/enderite_ore"
+		},
+		"glegg_enderite_block": {
+			"textures": "textures/blocks/enderite_block"
+		},
+		"glegg_enderite_smithing_station": {
+			"textures": "textures/blocks/enderite_smithing_station"
+		},
+		"glegg_enderite_furnace": {
+			"textures": "textures/blocks/enderite_furnace"
+		}
+	}
+}

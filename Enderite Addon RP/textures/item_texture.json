@@ -1,0 +1,33 @@
+{
+	"resource_pack_name": "Enderite Addon",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"glegg_enderite_raw_ore": {
+			"textures": "textures/items/enderite_raw_ore"
+		},
+		"glegg_enderite_core": {
+			"textures": "textures/items/enderite_core"
+		},
+		"glegg_enderite_ingot": {
+			"textures": "textures/items/enderite_ingot"
+		},
+		"glegg_enderite_pickaxe": {
+			"textures": "textures/items/enderite_pickaxe"
+		},
+		"glegg_enderite_axe": {
+			"textures": "textures/items/enderite_axe"
+		},
+		"glegg_enderite_shovel": {
+			"textures": "textures/items/enderite_shovel"
+		},
+		"glegg_enderite_hoe": {
+			"textures": "textures/items/enderite_hoe"
+		},
+		"glegg_enderite_sword": {
+			"textures": "textures/items/enderite_sword"
+		},
+		"glegg_soul_canister": {
+			"textures": "textures/items/soul_canister"
+		}
+	}
+}

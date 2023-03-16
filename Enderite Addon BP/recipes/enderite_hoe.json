@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "glegg:enderite_hoe"
+		},
+		"tags": [
+			"crafting_enderite_smithing_station"
+		],
+		"ingredients": [
+			{
+				"item": "glegg:enderite_core",
+				"data": 0,
+				"count": 1
+			},
+			{
+				"item": "netherite_hoe",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "glegg:enderite_hoe",
+				"count": 1
+			}
+		]
+	}
+}

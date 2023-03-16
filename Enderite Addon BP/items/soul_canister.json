@@ -1,0 +1,37 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "glegg:soul_canister",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "glegg_soul_canister"
+			},
+			"minecraft:cooldown": {
+				"duration": 90,
+				"category": "soul_canister"
+			},
+			"minecraft:on_use": {
+				"on_use": {
+					"event": "soulcanisterregen"
+				}
+			},
+			"minecraft:creative_category": {
+				"parent": "items"
+			},
+			"minecraft:max_stack_size": 1
+		},
+		"events": {
+			"soulcanisterregen": {
+				"add_mob_effect": {
+					"amplifier": 3,
+					"duration": 3,
+					"effect": "regeneration",
+					"target": "holder"
+				}
+			}
+		}
+	}
+}

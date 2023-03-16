@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "glegg:enderite_smithing_station"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"#X#",
+			"###"
+		],
+		"key": {
+			"#": {
+				"item": "glegg:enderite_ingot"
+			},
+			"X": {
+				"item": "smithing_table"
+			}
+		},
+		"result": {
+			"item": "glegg:enderite_smithing_station"
+		}
+	}
+}

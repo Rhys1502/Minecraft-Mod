@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "glegg:enderite_ingot_from_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "glegg:enderite_block"
+			}
+		},
+		"result": {
+			"item": "glegg:enderite_ingot",
+			"count": 9
+		}
+	}
+}

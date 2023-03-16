@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "glegg:enderite_ingot"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace"
+		],
+		"input": "glegg:enderite_raw_ore",
+		"output": "glegg:enderite_ingot"
+	}
+}

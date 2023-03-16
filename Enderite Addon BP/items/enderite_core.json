@@ -1,0 +1,17 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "glegg:enderite_core",
+			"category": "items"
+		},
+		"components": {
+			"minecraft:icon": {
+				"texture": "glegg_enderite_core"
+			},
+			"minecraft:creative_category": {
+				"parent": "items"
+			}
+		}
+	}
+}
