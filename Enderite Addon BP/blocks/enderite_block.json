@@ -36,10 +36,7 @@
 					"render_method": "opaque"
 				}
 			},
-			"minecraft:destroy_time": 6,
-			"minecraft:creative_category": {
-				"category": "construction"
-			}
+			"minecraft:destroy_time": 6
 		}
 	}
 }
