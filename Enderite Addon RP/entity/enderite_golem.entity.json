@@ -3,7 +3,7 @@
     "minecraft:client_entity": {
       "description": {
         "identifier": "glegg:enderite_golem",
-        "materials": { "default": "enderite_golem" },
+        "materials": { "default": "iron_golem" },
         "textures": {
           "default": "textures/entity/enderite_golem"
         },
