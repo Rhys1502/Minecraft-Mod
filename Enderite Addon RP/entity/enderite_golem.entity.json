@@ -8,7 +8,7 @@
           "default": "textures/entity/enderite_golem"
         },
         "geometry": {
-          "default": "geometry.enderitegolem"
+          "default": "geometry.enderite_golem"
         },
         "animations": {
           "walk": "animation.enderite_golem.walk",
