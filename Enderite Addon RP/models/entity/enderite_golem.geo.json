@@ -1,6 +1,6 @@
 {
-	"format_version": "1.10.0",
-	"geometry.enderite_golem": {
+	"format_version": "1.8.0",
+	"geometry.enderiteolem": {
 		"texturewidth": 128,
 		"textureheight": 128,
 		"visible_bounds_width": 3,
