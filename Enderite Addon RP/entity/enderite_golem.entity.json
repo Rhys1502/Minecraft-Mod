@@ -3,25 +3,26 @@
     "minecraft:client_entity": {
       "description": {
         "identifier": "glegg:enderite_golem",
-        "materials": { "default": "iron_golem" },
         "textures": {
           "default": "textures/entity/enderite_golem"
         },
         "geometry": {
-          "default": "geometry.enderite_golem"
+          "default": "geometry.enderitegolem"
         },
         "animations": {
           "walk": "animation.enderite_golem.walk",
           "move": "animation.enderite_golem.move",
           "attack": "animation.enderite_golem.attack",
           "flower": "animation.enderite_golem.flower",
-          "look_at_target": "animation.common.look_at_target"
+          "look_at_target": "animation.common.look_at_target",
+          "move_to_target":"animation.enderite_golem.move_to_target",
+          "walk_to_target":"animation.enderite_golem.walk_to_target"
         },
         "animation_controllers": [
           { "move": "controller.animation.enderite_golem.move" },
           { "arm": "controller.animation.enderite_golem.arm_movement"}
         ],
-        "render_controllers": [ "controller.render.enderite_golem" ]
+        "render_controllers": [ "controller.render.iron_golem_cracks"]
       }
     }
   }
