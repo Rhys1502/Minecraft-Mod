@@ -11,142 +11,140 @@
 			"minecraft:durability": {
 				"max_durability": 2640
 			},
-			"minecraft:use_on": {
-				"blocks": [
-					"grass",
-					"dirt",
-					"grass_path"
-				]
-			},
 			"minecraft:icon": {
 				"texture": "glegg_enderite_hoe"
+			},
+			"minecraft:enchantable": {
+				"slot": "axe",
+				"value": 20
 			},
 			"minecraft:creative_category": {
 				"parent": "itemGroup.name.hoe"
 			},
+			"minecraft:damage": 7,
 			"minecraft:weapon": {
 				"on_hurt_entity": {
-					"event": "durabilityloss2"
-				},
-				"on_not_hurt_entity": {
-					"event": "durabilityloss2"
-				},
-				"on_hit_block": {
 					"event": "durabilityloss2"
 				}
 			},
 			"minecraft:digger": {
-				"use_efficiency": true,
+				"on_dig": {
+					"event": "durabilityloss2"
+				},
 				"destroy_speeds": [
 					{
 						"block": "minecraft:nether_wart_block",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:hay_block",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:target",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:shroomlight",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:leaves",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:leaves2",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:warped_wart_block",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:sculk_catalyst",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:sculk_shrieker",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:sculk_sensor",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:dried_kelp_block",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:sculk_vein",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:moss_block",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:sculk",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					},
 					{
 						"block": "minecraft:sponge",
-						"speed": 5,
+						"speed": 8,
 						"on_dig": {
 							"event": "durabilityloss"
 						}
 					}
-				],
-				"on_dig": {
-					"event": "durabilityloss2"
-				}
+				]
+			},
+			"minecraft:use_on": {
+				"blocks": [
+					"grass",
+					"dirt",
+					"grass_path"
+				]
 			},
 			"minecraft:on_use_on": {
 				"on_use_on": {

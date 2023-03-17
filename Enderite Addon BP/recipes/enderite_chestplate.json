@@ -1,0 +1,28 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "glegg:enderite_chestplate"
+		},
+		"tags": [
+			"crafting_enderite_smithing_station"
+		],
+		"ingredients": [
+			{
+				"item": "glegg:enderite_core",
+				"data": 0,
+				"count": 1
+			},
+			{
+				"item": "netherite_chestplate",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "glegg:enderite_chestplate",
+				"count": 1
+			}
+		]
+	}
+}

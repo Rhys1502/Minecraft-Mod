@@ -1,0 +1,31 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "glegg:enderite_chestplate",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:armor": {
+				"protection": 9
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.chestplate"
+			},
+			"minecraft:durability": {
+				"max_durability": 663
+			},
+			"minecraft:enchantable": {
+				"slot": "armor_torso",
+				"value": 20
+			},
+			"minecraft:icon": {
+				"texture": "glegg_enderite_chestplate"
+			},
+			"minecraft:wearable": {
+				"slot": "slot.armor.chest"
+			}
+		}
+	}
+}

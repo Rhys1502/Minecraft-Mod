@@ -4,7 +4,7 @@
 		"description": {
 			"identifier": "glegg:enderite_ore_feature"
 		},
-		"count": 10,
+		"count": 2,
 		"replace_rules": [
 			{
 				"places_block": {

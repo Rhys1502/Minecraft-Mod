@@ -369,6 +369,1119 @@
 							"event": "durabilityloss"
 						},
 						"speed": 20
+					},
+					{
+						"block": "stone_block_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "stone_block_slab2",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "stone_block_slab3",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "stone_block_slab4",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "waxed_oxidized_cut_copper_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "waxed_weathered_cut_copper_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "waxed_exposed_cut_copper_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "waxed_cut_copper_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "oxidized_cut_copper_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "weathered_cut_copper_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "exposed_cut_copper_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "cut_copper_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_blackstone_brick_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_blackstone_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "blackstone_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "cobbled_deepslate_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "polished_deepslate_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "deepslate_tile_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "deepslate_brick_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "mud_brick_slab",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 20
+					},
+					{
+						"block": "waxed_oxidized_cut_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "waxed_weathered_cut_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "waxed_exposed_cut_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "waxed_cut_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "oxidized_cut_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "weathered_cut_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "exposed_cut_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "cut_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "waxed_oxidized_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "waxed_weathered_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "waxed_exposed_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "waxed_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "oxidized_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "weathered_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "exposed_copper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "copper_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 13
+					},
+					{
+						"block": "chiseled_nether_bricks",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "cracked_nether_bricks",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "quartz_bricks",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "stonebrick",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "end_bricks",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "prismarine",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "polished_blackstone_bricks",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "cracked_polished_blackstone_bricks",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "gilded_blackstone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "chiseled_polished_blackstone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "deepslate_tiles",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "cracked_deepslate_tiles",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "deepslate_bricks",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "cracked_deepslate_bricks",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "chiseled_deepslate",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "coal_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "sandstone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "red_sandstone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "smooth_stone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "cobbled_deepslate",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "deepslate",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "blackstone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "polished_deepslate",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "polished_blackstone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "diamond_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "emerald_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "lapis_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "netherite_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "raw_copper_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "quartz_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "nether_brick",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "red_nether_brick",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "nether_brick_fence",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "bone_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "lodestone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "mud_bricks",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "ice",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "packed_ice",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "blue_ice",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "pointed_dripstone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "amethyst_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "budding_amethyst",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "amethyst_cluster",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "large_amethyst_bud",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "medium_amethyst_bud",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "small_amethyst_bud",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "lantern",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "furnace",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "blast_furnace",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "smoker",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "anvil",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "grindstone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "stonecutter",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "stonecutter_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "enchanting_table",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "ender_chest",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "shulker_box",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "undyed_shulker_box",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "rail",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "golden_rail",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "detector_rail",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "activator_rail",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "lightning_rod",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "redstone_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "light_weighted_pressure_plate",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "heavy_weighted_pressure_plate",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "stone_pressure_plate",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "observer",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "hopper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "dropper",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "dispenser",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "glegg:enderite_smithing_station",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "crimson_nylium",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "warped_nylium",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "netherrack",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "magma",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "basalt",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "smooth_basalt",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "polished_basalt",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "copper_ore",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "quartz_ore",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "nether_gold_ore",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "ancient_debris",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "deepslate_lapis_ore",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "deepslate_copper_ore",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "bell",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "soul_lantern",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "polished_blackstone_pressure_plate",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "lit_furnace",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "lit_smoker",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "lit_blast_furnace",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "coral",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "coral_block",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "coral_fan",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "coral_fan_dead",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "coral_fan_hang",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "coral_fan_hang2",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "coral_fan_hang3",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "end_stone",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "glowingobsidian",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "crying_obsidian",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "mob_spawner",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "calcite",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "tuff",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "hardened_clay",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "stained_hardened_clay",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "concrete",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "red_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "lime_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "blue_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "cyan_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "pink_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "gray_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "black_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "brown_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "white_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "green_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "orange_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "purple_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "silver_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "yellow_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "magenta_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
+					},
+					{
+						"block": "light_blue_glazed_terracotta",
+						"on_dig": {
+							"event": "durabilityloss"
+						},
+						"speed": 15
 					}
 				]
 			}

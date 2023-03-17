@@ -28,6 +28,18 @@
 		},
 		"glegg_soul_canister": {
 			"textures": "textures/items/soul_canister"
+		},
+		"glegg_enderite_helmet": {
+			"textures": "textures/items/enderite_helmet"
+		},
+		"glegg_enderite_chestplate": {
+			"textures": "textures/items/enderite_chestplate"
+		},
+		"glegg_enderite_leggings": {
+			"textures": "textures/items/enderite_leggings"
+		},
+		"glegg_enderite_boots": {
+			"textures": "textures/items/enderite_boots"
 		}
 	}
 }
