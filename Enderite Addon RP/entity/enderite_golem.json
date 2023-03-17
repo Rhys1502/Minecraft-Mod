@@ -1,0 +1,27 @@
+{
+    "format_version": "1.8.0",
+    "minecraft:client_entity": {
+      "description": {
+        "identifier": "glegg:enderite_golem",
+        "materials": { "default": "enderite_golem" },
+        "textures": {
+          "default": "textures/entity/enderite_golem"
+        },
+        "geometry": {
+          "default": "geometry.enderite_golem"
+        },
+        "animations": {
+          "walk": "animation.enderite_golem.walk",
+          "move": "animation.enderite_golem.move",
+          "attack": "animation.enderite_golem.attack",
+          "flower": "animation.enderite_golem.flower",
+          "look_at_target": "animation.common.look_at_target"
+        },
+        "animation_controllers": [
+          { "move": "controller.animation.enderite_golem.move" },
+          { "arm": "controller.animation.enderite_golem.arm_movement"}
+        ],
+        "render_controllers": [ "controller.render.enderite_golem" ]
+      }
+    }
+  }
